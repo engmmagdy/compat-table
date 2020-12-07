@@ -19,7 +19,7 @@
     "babel-preset-es2017": "latest",
     "babel-preset-stage-0": "latest",
     "chalk": "^1.1.3",
-    "cheerio": "^0.20.0",
+    "cheerio": "^0.22.0",
     "core-js": "latest",
     "es5-shim": "latest",
     "es6-shim": "latest",
